@@ -1,5 +1,6 @@
 require("dotenv").config();
 const axios = require('axios');
+const fs = require('fs');
 
 const Spotify = require('node-spotify-api');
 const keys = require("./keys.js");
@@ -7,6 +8,7 @@ const spotify = new Spotify(keys.spotify);
 
 //global variable
 const OMDB_BASEURL= "http://www.omdbapi.com/";
+const BANDINTOWN_BASEURL = "https://rest.bandsintown.com/artists/";
 
 //get command line argument
 const whatToDo = process.argv[2];
@@ -39,7 +41,7 @@ function movieThis(title){
             t: title ||"Mr. Nobody"
         }
     } ).then(function(response){
-        console.log(`
+        let dataLog  = `
         Title: ${response.data.Title}
         Year: ${response.data.Year}
         IMDB rating: ${response.data.imdbRating}
@@ -48,17 +50,71 @@ function movieThis(title){
         Language of the movies: ${response.data.Language}
         Plot: ${response.data.Plot}
         Actors: ${response.data.Actors}
-        `)
+        `;
+        console.log(dataLog);
+        let message =`
+        **********************************************`;
+        message += whatToDo + " "+searchArg+"\n"; 
+        message += dataLog;
+        fs.append(__dirname+"/log.txt", message, function(err){
+            console.log(err);
+        }
     }).catch(function(err){
         console.log(err);
     })
     
 }
+
+
+function concertThis(artist){
+    if(artist){
+        axios.get("https://rest.bandsintown.com/artists/"+artist+"/events?app_id=codingbootcamp")
+        .then(function(response){
+            console.log(response.data);
+            if(!response.data){
+                //console.log("Not events fund in town for "+ artist);
+            }else{
+                response.data.map(function(data) {
+                    const dE = new Date(data.datetime);
+                    const dataeventFormatted = dE.getMonth()+"/"+dE.getDate()+"/"+dE.getFullYear();
+                    console.log(`
+                    ***************************************
+                    Venue: ${data.venue.name}
+                    Location: ${data.venue.city} ${data.venue.region}, ${data.venue.country}
+                    Date: ${dataeventFormatted}
+                    `)
+                });
+            }
+        }).catch(function(err){
+            console.log(err);
+        })
+        
+    }else{
+        console.log("oupps!!!\n The artist name is required. Please, provide one!");
+    }
+        
+}
+
 switch (whatToDo) {
     case 'spotify-this-song': spotifyThisSong(searchArg);
         break;
     case 'movie-this': movieThis(searchArg);
         break;
+    case 'concert-this': concertThis(searchArg);
+        break;
+    case 'do-what-it-says': 
+         fs.readFile(__dirname+"/random.txt", 'utf8', function(err, data){
+            if(err){
+                console.log(err);
+            }else{
+                let defaultSong = data.split(",")[1].trim();
+                console.log(defaultSong);
+                spotifyThisSong(defaultSong);
+            }
+            
+        });
+        
+        break; 
     default:
         console.log("sorry, can find this command! Enter a valid command!");
 
