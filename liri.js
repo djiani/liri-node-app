@@ -11,11 +11,11 @@ const OMDB_BASEURL= "http://www.omdbapi.com/";
 const BANDINTOWN_BASEURL = "https://rest.bandsintown.com/artists/";
 
 //get command line argument
-const whatToDo = process.argv[2];
-const searchArg = process.argv.slice(3).join("+");
+let whatToDo = process.argv[2];
+let searchArg = process.argv.slice(3).join("+");
 //console.log(searchArg);
 
-function spotifyThisSong(trackName) {
+function spotifyThisSong(trackName, do_what_it_says_flag) {
     spotify
         .search({ type: 'track', query: trackName })
         .then(function (response) {
@@ -29,14 +29,14 @@ function spotifyThisSong(trackName) {
             `);
             });
             console.log(dataLog.join("\n"));
-            appendText(whatToDo, searchArg, dataLog);
+            appendText(whatToDo, searchArg, dataLog, do_what_it_says_flag);
         })
         .catch(function (err) {
             console.log(err);
         });
 }
 
-function movieThis(title){
+function movieThis(title, do_what_it_says_flag){
     axios.get(OMDB_BASEURL,{
         params:{
             apikey: 'trilogy',
@@ -54,7 +54,7 @@ function movieThis(title){
         Actors: ${response.data.Actors}
         `;
         console.log(dataLog);
-        appendText(whatToDo, searchArg, dataLog);
+        appendText(whatToDo, searchArg, dataLog, do_what_it_says_flag);
     }).catch(function(err){
         console.log(err);
     })
@@ -62,7 +62,7 @@ function movieThis(title){
 }
 
 
-function concertThis(artist){
+function concertThis(artist, do_what_it_says_flag){
     if(artist){
         axios.get("https://rest.bandsintown.com/artists/"+artist+"/events?app_id=codingbootcamp")
         .then(function(response){
@@ -79,8 +79,8 @@ function concertThis(artist){
         Date: ${dataeventFormatted}
         `);
                 });
-                console.log(dataLog.join("\n"));
-                appendText(whatToDo, searchArg, dataLog);
+                console.log(dataLog.join(''));
+                appendText(whatToDo, searchArg, dataLog, do_what_it_says_flag);
 
             }
         }).catch(function(err){
@@ -93,9 +93,13 @@ function concertThis(artist){
         
 }
 
-function appendText(cmd, arg, msg){
+function appendText(cmd, arg, msg, do_what_it_says_flag){
     let message =`
         **********************************************\n`;
+        if(do_what_it_says_flag){
+            message +=`
+        do_what_it_says  `
+        }
         message +=`
         ${cmd}  ${arg.split("+").join(" ")}\n`; 
         message += msg;
@@ -107,31 +111,34 @@ function appendText(cmd, arg, msg){
         });
 }
 
-switch (whatToDo) {
-    case 'spotify-this-song': 
-        spotifyThisSong(searchArg);
-        break;
-    case 'movie-this': 
-        movieThis(searchArg);
-        break;
-    case 'concert-this': 
-        concertThis(searchArg);
-        break;
-    case 'do-what-it-says': 
-         fs.readFile(__dirname+"/random.txt", 'utf8', function(err, data){
-            if(err){
-                console.log(err);
-            }else{
-                let defaultSong = data.split(",")[1].trim();
-                console.log(defaultSong);
-                spotifyThisSong(defaultSong);
-            }
+function userchoice(cmd, arg, do_what_it_says_flag){
+    switch (cmd) {
+        case 'spotify-this-song': 
+            spotifyThisSong(arg, do_what_it_says_flag);
+            break;
+        case 'movie-this': 
+            movieThis(arg, do_what_it_says_flag);
+            break;
+        case 'concert-this': 
+            concertThis(arg, do_what_it_says_flag);
+            break;
+        case 'do-what-it-says': 
+             fs.readFile(__dirname+"/random.txt", 'utf8', function(err, data){
+                if(err){
+                    console.log(err);
+                }else{
+                    whatToDo = data.split(",")[0].trim();
+                    searchArg = data.split(",")[1].trim();
+                    userchoice(whatToDo, searchArg, true);
+                }
+                
+            });
             
-        });
-        
-        break; 
-    default:
-        console.log("sorry, can find this command! Enter a valid command!");
-
+            break; 
+        default:
+            console.log("Sorry, can find this command!\n Please, enter a valid command!");
+    
+    }
 }
 
+userchoice(whatToDo, searchArg,false);
