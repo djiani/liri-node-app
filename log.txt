@@ -1,0 +1,367 @@
+
+        **********************************************
+
+        concert-this  just us
+
+            Venue: Lichthof der Rotkäppchen Sektkellerei
+            Location: Laucha An Der Unstrut , Germany
+            Date: 7/3/2019
+                    ,
+            Venue: Phase 2
+            Location: Lynchburg VA, United States
+            Date: 7/9/2019
+                    
+        **********************************************
+
+        concert-this  just us
+
+        Venue: Lichthof der Rotkäppchen Sektkellerei
+        Location: Laucha An Der Unstrut , Germany
+        Date: 7/3/2019
+                    ,
+        Venue: Phase 2
+        Location: Lynchburg VA, United States
+        Date: 7/9/2019
+                    
+        **********************************************
+
+        concert-this  just us
+Venue: Lichthof der Rotkäppchen Sektkellerei
+        Location: Laucha An Der Unstrut , Germany
+        Date: 7/3/2019,Venue: Phase 2
+        Location: Lynchburg VA, United States
+        Date: 7/9/2019
+        **********************************************
+
+        concert-this  just us
+
+        Venue: Lichthof der Rotkäppchen Sektkellerei
+        Location: Laucha An Der Unstrut , Germany
+        Date: 7/3/2019,
+        Venue: Phase 2
+        Location: Lynchburg VA, United States
+        Date: 7/9/2019
+        **********************************************
+
+        concert-this  just us
+
+        Venue: Lichthof der Rotkäppchen Sektkellerei
+        Location: Laucha An Der Unstrut , Germany
+        Date: 7/3/2019
+        ,
+        Venue: Phase 2
+        Location: Lynchburg VA, United States
+        Date: 7/9/2019
+        
+        **********************************************
+
+        spotify-this-song  I will always love you
+
+            Album name: The Bodyguard - Original Soundtrack Album
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Jolene
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton
+            Preview link: https://p.scdn.co/mp3-preview/fbff57f3300f9303d4f5fbe876fcc15ed7ee564d?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Whitney The Greatest Hits
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/65858cbbe8dd9fc4d2726ca87ee93f06ca6072f7?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Wish You Love: More From The Bodyguard
+            Song's name: I Will Always Love You - Film Version
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/683b088d380973cbee3b4034472210d621415a28?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I'm Your Baby Tonight
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/ee5f76ffd95d70a1d7089b1b55db61f88cc876c6?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I Wanna Dance with Somebody (Who Loves Me)
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Attitude
+            Song's name: I Will Always Love You
+            Arttist: Troop
+            Preview link: https://p.scdn.co/mp3-preview/ba1e5cf39cd5becfc7dfe9c88a302e92d6644b24?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: How Will I Know
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/b5a479f24c17ddd7555893c03db8b0915a6ca10d?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Love Songs
+            Song's name: I Will Always Love You (with Vince Gill)
+            Arttist: Dolly Parton,Vince Gill
+            Preview link: https://p.scdn.co/mp3-preview/b16d70b044d1d71b21288d20b8bbb6bcb5bc9735?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Essential Love Songs
+            Song's name: I Will Always Love You
+            Arttist: Richard Clayderman
+            Preview link: https://p.scdn.co/mp3-preview/a1e9855ea342fe0ef42b8bfcd7f0d62e1b1bce99?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/48281d57830174f3681b78837e85ffe5bb90a53b?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: The Essential Dolly Parton
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton
+            Preview link: https://p.scdn.co/mp3-preview/d3bf7c614287881533203b1ac7e611cd4e37be24?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You
+            Song's name: I Will Always Love You
+            Arttist: Leroy Sanchez
+            Preview link: https://p.scdn.co/mp3-preview/480458ce4753786420d61c59ffc558c9f562b2a3?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Are We Not Men? We Are Diva!
+            Song's name: I Will Always Love You
+            Arttist: Me First and the Gimme Gimmes
+            Preview link: https://p.scdn.co/mp3-preview/bf2d88f216d712512c64efa15c92adc43a355f9e?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Beautiful Dreams
+            Song's name: I Will Always Love You
+            Arttist: Tyler and Mark
+            Preview link: https://p.scdn.co/mp3-preview/869fa23ed30dac1787f54700b874d9b3e6cfe91f?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Piano Sleep
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton,The O'Neill Brothers
+            Preview link: https://p.scdn.co/mp3-preview/6a835318a4f7ff136614e87577eb26a5d75bb61f?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You (triple j Like A Version)
+            Song's name: I Will Always Love You (triple j Like A Version)
+            Arttist: Parcels
+            Preview link: https://p.scdn.co/mp3-preview/c276c73ee162dd27a19ca1ab751dae17676d214c?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: 90 Sweet 90s Hits!
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/a46e45296744449c40fd783039484f75e79454df?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You (Instrumental Piano)
+            Song's name: I Will Always Love You (Instrumental Piano)
+            Arttist: Tim O'Neill
+            Preview link: https://p.scdn.co/mp3-preview/c060d3f831f686c9ab84c0dc76c9323343090aad?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Wish You Love: More From The Bodyguard
+            Song's name: I Will Always Love You - Alternate Mix
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/4369193297bdf1715b851c79d6972a9f138b3cbf?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            
+        **********************************************
+
+        spotify-this-song  I will always love you
+
+            Album name: The Bodyguard - Original Soundtrack Album
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Jolene
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton
+            Preview link: https://p.scdn.co/mp3-preview/fbff57f3300f9303d4f5fbe876fcc15ed7ee564d?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Whitney The Greatest Hits
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/65858cbbe8dd9fc4d2726ca87ee93f06ca6072f7?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Wish You Love: More From The Bodyguard
+            Song's name: I Will Always Love You - Film Version
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/683b088d380973cbee3b4034472210d621415a28?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I'm Your Baby Tonight
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/ee5f76ffd95d70a1d7089b1b55db61f88cc876c6?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I Wanna Dance with Somebody (Who Loves Me)
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Attitude
+            Song's name: I Will Always Love You
+            Arttist: Troop
+            Preview link: https://p.scdn.co/mp3-preview/ba1e5cf39cd5becfc7dfe9c88a302e92d6644b24?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: How Will I Know
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/b5a479f24c17ddd7555893c03db8b0915a6ca10d?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Love Songs
+            Song's name: I Will Always Love You (with Vince Gill)
+            Arttist: Dolly Parton,Vince Gill
+            Preview link: https://p.scdn.co/mp3-preview/b16d70b044d1d71b21288d20b8bbb6bcb5bc9735?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Essential Love Songs
+            Song's name: I Will Always Love You
+            Arttist: Richard Clayderman
+            Preview link: https://p.scdn.co/mp3-preview/a1e9855ea342fe0ef42b8bfcd7f0d62e1b1bce99?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/48281d57830174f3681b78837e85ffe5bb90a53b?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: The Essential Dolly Parton
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton
+            Preview link: https://p.scdn.co/mp3-preview/d3bf7c614287881533203b1ac7e611cd4e37be24?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You
+            Song's name: I Will Always Love You
+            Arttist: Leroy Sanchez
+            Preview link: https://p.scdn.co/mp3-preview/480458ce4753786420d61c59ffc558c9f562b2a3?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Are We Not Men? We Are Diva!
+            Song's name: I Will Always Love You
+            Arttist: Me First and the Gimme Gimmes
+            Preview link: https://p.scdn.co/mp3-preview/bf2d88f216d712512c64efa15c92adc43a355f9e?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Beautiful Dreams
+            Song's name: I Will Always Love You
+            Arttist: Tyler and Mark
+            Preview link: https://p.scdn.co/mp3-preview/869fa23ed30dac1787f54700b874d9b3e6cfe91f?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Piano Sleep
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton,The O'Neill Brothers
+            Preview link: https://p.scdn.co/mp3-preview/6a835318a4f7ff136614e87577eb26a5d75bb61f?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You (triple j Like A Version)
+            Song's name: I Will Always Love You (triple j Like A Version)
+            Arttist: Parcels
+            Preview link: https://p.scdn.co/mp3-preview/c276c73ee162dd27a19ca1ab751dae17676d214c?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: 90 Sweet 90s Hits!
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/a46e45296744449c40fd783039484f75e79454df?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You (Instrumental Piano)
+            Song's name: I Will Always Love You (Instrumental Piano)
+            Arttist: Tim O'Neill
+            Preview link: https://p.scdn.co/mp3-preview/c060d3f831f686c9ab84c0dc76c9323343090aad?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Wish You Love: More From The Bodyguard
+            Song's name: I Will Always Love You - Alternate Mix
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/4369193297bdf1715b851c79d6972a9f138b3cbf?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            
+        **********************************************
+
+        spotify-this-song  I will always love you
+
+            Album name: The Bodyguard - Original Soundtrack Album
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/91e6d3e0b48cda2f3a1b2391a1c1384fbf73b8a8?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Jolene
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton
+            Preview link: https://p.scdn.co/mp3-preview/fbff57f3300f9303d4f5fbe876fcc15ed7ee564d?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Whitney The Greatest Hits
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/65858cbbe8dd9fc4d2726ca87ee93f06ca6072f7?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Wish You Love: More From The Bodyguard
+            Song's name: I Will Always Love You - Film Version
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/683b088d380973cbee3b4034472210d621415a28?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I'm Your Baby Tonight
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/ee5f76ffd95d70a1d7089b1b55db61f88cc876c6?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I Wanna Dance with Somebody (Who Loves Me)
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/8220716ca30d92d0eef7412a6f4d1d5d407ccd04?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Attitude
+            Song's name: I Will Always Love You
+            Arttist: Troop
+            Preview link: https://p.scdn.co/mp3-preview/ba1e5cf39cd5becfc7dfe9c88a302e92d6644b24?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: How Will I Know
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/b5a479f24c17ddd7555893c03db8b0915a6ca10d?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Love Songs
+            Song's name: I Will Always Love You (with Vince Gill)
+            Arttist: Dolly Parton,Vince Gill
+            Preview link: https://p.scdn.co/mp3-preview/b16d70b044d1d71b21288d20b8bbb6bcb5bc9735?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Essential Love Songs
+            Song's name: I Will Always Love You
+            Arttist: Richard Clayderman
+            Preview link: https://p.scdn.co/mp3-preview/a1e9855ea342fe0ef42b8bfcd7f0d62e1b1bce99?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You: The Best Of Whitney Houston
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/48281d57830174f3681b78837e85ffe5bb90a53b?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: The Essential Dolly Parton
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton
+            Preview link: https://p.scdn.co/mp3-preview/d3bf7c614287881533203b1ac7e611cd4e37be24?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You
+            Song's name: I Will Always Love You
+            Arttist: Leroy Sanchez
+            Preview link: https://p.scdn.co/mp3-preview/480458ce4753786420d61c59ffc558c9f562b2a3?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Are We Not Men? We Are Diva!
+            Song's name: I Will Always Love You
+            Arttist: Me First and the Gimme Gimmes
+            Preview link: https://p.scdn.co/mp3-preview/bf2d88f216d712512c64efa15c92adc43a355f9e?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Beautiful Dreams
+            Song's name: I Will Always Love You
+            Arttist: Tyler and Mark
+            Preview link: https://p.scdn.co/mp3-preview/869fa23ed30dac1787f54700b874d9b3e6cfe91f?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: Piano Sleep
+            Song's name: I Will Always Love You
+            Arttist: Dolly Parton,The O'Neill Brothers
+            Preview link: https://p.scdn.co/mp3-preview/6a835318a4f7ff136614e87577eb26a5d75bb61f?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You (triple j Like A Version)
+            Song's name: I Will Always Love You (triple j Like A Version)
+            Arttist: Parcels
+            Preview link: https://p.scdn.co/mp3-preview/c276c73ee162dd27a19ca1ab751dae17676d214c?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: 90 Sweet 90s Hits!
+            Song's name: I Will Always Love You
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/a46e45296744449c40fd783039484f75e79454df?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Will Always Love You (Instrumental Piano)
+            Song's name: I Will Always Love You (Instrumental Piano)
+            Arttist: Tim O'Neill
+            Preview link: https://p.scdn.co/mp3-preview/c060d3f831f686c9ab84c0dc76c9323343090aad?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            ,
+            Album name: I Wish You Love: More From The Bodyguard
+            Song's name: I Will Always Love You - Alternate Mix
+            Arttist: Whitney Houston
+            Preview link: https://p.scdn.co/mp3-preview/4369193297bdf1715b851c79d6972a9f138b3cbf?cid=6ad5e784b5e3485283527b8ab0469eaa   
+            
