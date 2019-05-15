@@ -8,16 +8,16 @@ const spotify = new Spotify(keys.spotify);
 
 //global variable
 const OMDB_BASEURL= "http://www.omdbapi.com/";
-const BANDINTOWN_BASEURL = "https://rest.bandsintown.com/artists/";
+//const BANDINTOWN_BASEURL = "https://rest.bandsintown.com/artists/";
 
 //get command line argument
 let whatToDo = process.argv[2];
 let searchArg = process.argv.slice(3).join("+");
-//console.log(searchArg);
+console.log(searchArg);
 
 function spotifyThisSong(trackName, do_what_it_says_flag) {
     spotify
-        .search({ type: 'track', query: trackName })
+        .search({ type: 'track', query: trackName || "The Sign" })
         .then(function (response) {
             //console.log(response.tracks.items);
             let dataLog = response.tracks.items.map(function(track){
@@ -106,12 +106,12 @@ function appendText(cmd, arg, msg, do_what_it_says_flag){
 
         fs.appendFile(__dirname+"/log.txt", message, function(err){
             if(err) console.log(err);
-            console.log("movie has been add to log file!");
+            console.log("A new record has been add to log file!");
             
         });
 }
 
-function userchoice(cmd, arg, do_what_it_says_flag){
+function userChoice(cmd, arg, do_what_it_says_flag){
     switch (cmd) {
         case 'spotify-this-song': 
             spotifyThisSong(arg, do_what_it_says_flag);
@@ -129,7 +129,7 @@ function userchoice(cmd, arg, do_what_it_says_flag){
                 }else{
                     whatToDo = data.split(",")[0].trim();
                     searchArg = data.split(",")[1].trim();
-                    userchoice(whatToDo, searchArg, true);
+                    userChoice(whatToDo, searchArg, true);
                 }
                 
             });
@@ -141,4 +141,4 @@ function userchoice(cmd, arg, do_what_it_says_flag){
     }
 }
 
-userchoice(whatToDo, searchArg,false);
+userChoice(whatToDo, searchArg, false);
